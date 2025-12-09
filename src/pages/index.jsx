@@ -1,11 +1,10 @@
 import { Todo } from "@/components/Todo";
-// import { InputTodo } from "@/components/InputTodo";
-
-return (
-  <div>
-    <Todo />
-    {/* <InputTodo /> */}
-  </div>
-);
+const Home = () => {
+  return (
+    <div>
+      <Todo />
+    </div>
+  );
+};
 
 export default Home;
