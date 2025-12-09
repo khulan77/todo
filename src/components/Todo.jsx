@@ -3,6 +3,9 @@ export const Todo = () => {
     <div>
       hulan
       <div>selenge</div>
+      <div>saraa</div>
+      <div>dulam</div>
+      <div>lhagwa</div>
     </div>
   );
 };
